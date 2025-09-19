@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For Production Report I View'
+define service ZPRD_REPORT {
+  expose ZPRD_REPORT;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For BOM Summary'
+define service ZBOM_SUMMARY {
+  expose ZBOM_SUMMARY;
+}

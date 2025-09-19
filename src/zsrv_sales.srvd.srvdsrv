@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service definition for SALES RPT'
+define service Zsrv_sales {
+  expose zdd_cds_i_sales_ as Sales_RPT;
+}

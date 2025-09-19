@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For Issue component QTY V1'
+define service Zsd_issue_component_qty_v1 {
+  expose zi_issue_component_qty_v1;
+}

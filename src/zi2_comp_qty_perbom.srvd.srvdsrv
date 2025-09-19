@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For component QTY as Per BOM i2'
+define service ZI2_COMP_QTY_PERBOM {
+  expose ZI2_COMP_QTY_PERBOM;
+}

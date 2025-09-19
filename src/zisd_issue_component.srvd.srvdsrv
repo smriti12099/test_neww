@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For Issue component'
+define service ZISD_ISSUE_COMPONENT {
+  expose zi_issue_component;
+}

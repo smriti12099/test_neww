@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For prd report i view 2'
+define service ZSD2_PRD_REPORT {
+  expose ZI2_PRD_REPORT;
+}

@@ -1,0 +1,5 @@
+@EndUserText.label: 'Service Definination For MRP Planing Report'
+define service ZSD_MRP_PLANING_REPORT {
+  expose ZC_MRP_PLANING_REPORT;
+  expose ZI_MRP_PLANING_REPORT;
+}

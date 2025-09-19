@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For MFG ORDER MATERIAL DOC'
+define service ZSD_MFGORDERMATERIALDOC {
+  expose Zi_MfgOrderMaterialDoc;
+}

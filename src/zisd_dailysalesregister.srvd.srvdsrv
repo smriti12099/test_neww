@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For Daily Sales Ragister I View'
+define service ZISD_DAILYSALESREGISTER {
+  expose ZI_DailySalesRegister;
+}

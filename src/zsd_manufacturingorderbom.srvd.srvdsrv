@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definination For ZI_MANUFACTURINGORDERBOM'
+define service ZSD_MANUFACTURINGORDERBOM {
+  expose ZI_ManufacturingOrderBOM;
+}
